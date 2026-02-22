@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chicagoplumbingsquad.com/sitemap.xml
